@@ -1,0 +1,16 @@
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.exe
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.deps.json
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.json
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.dev.json
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.dll
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\bin\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.pdb
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfo.cs
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.dll
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\obj\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.pdb
+C:\workspace\.NET-construtores-propriedades-delegates-eventos\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.genruntimeconfig.cache
